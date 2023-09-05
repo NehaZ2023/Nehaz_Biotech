@@ -2,7 +2,7 @@
 
 **Biocompatible Biofertilizer: Enhancing Crop Yield and Livestock Nutrition**
 
-**Description**:  This project aims to develop a novel biocompatible biofertilizer that can simultaneously improve crop yield and enhance the nutritional value of livestock feed. The biofertilizer will be created by harnessing the synergistic interactions between beneficial microorganisms isolated from both the plant and animal microbiomes. This innovative approach will not only promote sustainable agriculture but also contribute to the well-being of livestock
+This project aims to develop a novel biocompatible biofertilizer that can simultaneously improve crop yield and enhance the nutritional value of livestock feed. The biofertilizer will be created by harnessing the synergistic interactions between beneficial microorganisms isolated from both the plant and animal microbiomes. This innovative approach will not only promote sustainable agriculture but also contribute to the well-being of livestock
 
 **Skills Used**:
 
